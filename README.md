@@ -2,6 +2,30 @@
 
 국내 코로나 확진자수를 실시간으로 집계하여 제공 및 지도현황
 
+# 사용 기술 및 환경
+
+SpringBoot. Gradle, Jpa, java11, SpringBatch, H2, MySql, Aws, 그 외 추후 추가 예정
+
+# 프로젝트 주요 관심사
+
+* 이유와 근거가 명확한 기술의 사용
+
+* 클린코드를 위한 꾸준한 코드 리팩토링
+
+* 객체지향적 개념을 이해하고 이를 코드에 녹여내어 의미있는 설계를 지향
+
+* 대용량 트래픽의 상황에서 지속적인 서버 성능 개선
+
+# WIKI
+
+ * [Wiki](https://github.com/thenaun-workspace/covid-19-info/wiki)
+ * [Usecase](https://github.com/thenaun-workspace/covid-19-info/wiki/Usecase)
+ * [이슈해결을 정리한 테크블로그](https://junghyungil.tistory.com/) 
+
+# 전체 프로젝트 구조
+
+추후 작성 예정
+
 ## 브랜치 관리 전략
 
 &nbsp;&nbsp;&nbsp;&nbsp; Git-Flow 를 이용하여 브랜치를 관리하였습니다.
